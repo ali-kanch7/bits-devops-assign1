@@ -6,3 +6,6 @@ after git commit in dev branch
 This is a new line added in dev branch.
 
 This is the final state after conflict resolution.
+
+pushing changed file to dev using --Force
+git reset -soft used
