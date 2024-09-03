@@ -2,3 +2,7 @@ This is a second file created in dev branch.
 
 This is change created in main branch
 after git commit in dev branch
+
+This is a new line added in dev branch.
+
+This is the final state after conflict resolution.
